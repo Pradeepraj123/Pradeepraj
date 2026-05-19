@@ -1280,8 +1280,8 @@ a img { border: 0 }
 }
 
 .timeline-wrapper img {
-  width: 75%;
-  max-width: 750px;
+  width: 100%;
+  max-width: 1200px;
   border-radius: 18px;
 }
 
