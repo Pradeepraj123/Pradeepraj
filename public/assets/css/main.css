@@ -1273,7 +1273,7 @@ a img { border: 0 }
 .timeline-wrapper {
   margin-top: 25px;
   background: #ffffff;
-  padding: 25px;
+  padding: 10px;
   border-radius: 20px;
   display: flex;
   justify-content: center;
@@ -1281,7 +1281,7 @@ a img { border: 0 }
 
 .timeline-wrapper img {
   width: 100%;
-  max-width: 1200px;
+  max-width: 100%;
   border-radius: 18px;
 }
 
