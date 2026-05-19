@@ -250,8 +250,8 @@ To delete all Azure resources and stop billing:
 ## 👤 Author
 
 **Kaviarasan C**
-- Portfolio: [kaviarasan.vercel.app](https://kaviarasan.vercel.app)
-- GitHub: [@kaviarasankavi](https://github.com/kaviarasankavi)
+- Portfolio: [pradeepraj.vercel.app](https://pradeepraj.vercel.app)
+- GitHub: [@Pradeepraj123](https://github.com/Pradeepraj123)
 
 ---
 
