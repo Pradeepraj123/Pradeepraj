@@ -1262,3 +1262,26 @@ a img { border: 0 }
 
 .footer .love { color: red }
 .footer a { text-decoration: none; margin: 0; color: #fff }
+
+#timeline-section {
+  width: 90%;
+  max-width: 1100px;
+  margin: 40px auto 0px auto;
+  text-align: center;
+}
+
+.timeline-wrapper {
+  margin-top: 25px;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.timeline-wrapper img {
+  width: 75%;
+  max-width: 750px;
+  border-radius: 18px;
+}
+
